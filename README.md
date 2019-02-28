@@ -1,5 +1,5 @@
 # a react custom fetch hook, for get data from server
-
+## you can fetch data easly with react-hook-fetch and manage loading or error
 ## install
 > `npm install react-hook-fetch`
 
