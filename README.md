@@ -55,6 +55,7 @@ this above line is the main line in your code useGet function params is
 * third : this is your reducer width this reducer you can manipulate the state :
 > for example you may want get data from server again with a new url (may be when user click a button), you can do it like above example
 -> **note: ** _re-get data only when url has been changed_
+* fourth : this is an object for axios extra config
 ## other methods :
 
 ```

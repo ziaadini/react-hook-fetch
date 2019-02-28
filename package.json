@@ -1,6 +1,6 @@
 {
   "name": "react-hook-fetch",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "this is a hook for fetching data from a server",
   "main": "build/index.js",
   "types": "./src/index.d.ts",
@@ -36,5 +36,9 @@
     "babel-loader": "^8.0.5",
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ziaadini/react-hook-fetch"
   }
 }
