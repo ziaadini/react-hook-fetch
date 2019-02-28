@@ -1,0 +1,40 @@
+{
+  "name": "react-hook-fetch",
+  "version": "1.0.5",
+  "description": "this is a hook for fetching data from a server",
+  "main": "build/index.js",
+  "types": "./src/index.d.ts",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react-fetch",
+    "react-fetch-using-hook",
+    "react",
+    "hook",
+    "fetch-search",
+    "react-hook-fetch-data"
+  ],
+  "author": "yadollah ziaadini",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "webpack": "^4.29.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.5",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
